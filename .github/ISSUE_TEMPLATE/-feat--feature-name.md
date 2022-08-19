@@ -14,9 +14,15 @@ assignees: ''
 - [ ] Associe as issues por entregáveis - Crie uma issue para cada subfeature
 - [ ] Associe as issues por entregáveis - Crie uma issue para cada subfeature
 
+## Diagrama de branches
+
+[Template de diagramas](../assets/branchs_diagram.png)
+
 Dúvida em linkar issues? [Leia essa documentação](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-task-lists)
 
+## Diagrama de branch
 
+[Template de diagrama de branchs](../assets/)
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
