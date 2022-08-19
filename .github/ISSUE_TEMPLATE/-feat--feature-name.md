@@ -1,10 +1,9 @@
 ---
 name: "[FEAT] Feature Name"
 about: Detail the feature here.
-title: ''
-labels: ''
-assignees: ''
-
+title: ""
+labels: ""
+assignees: ""
 ---
 
 [FIGMA LINK](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -16,7 +15,7 @@ assignees: ''
 
 ## Diagrama de branches
 
-[Template de diagramas](../assets/branchs_diagram.png)
+![Template de diagramas](../assets/branchs_diagram.png)
 
 Dúvida em linkar issues? [Leia essa documentação](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-task-lists)
 
