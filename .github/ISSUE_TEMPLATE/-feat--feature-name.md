@@ -1,10 +1,9 @@
 ---
 name: "[FEAT] Feature Name"
 about: Detail the feature here.
-title: ''
-labels: ''
-assignees: ''
-
+title: ""
+labels: ""
+assignees: ""
 ---
 
 [FIGMA LINK](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -18,8 +17,7 @@ Dúvida em linkar issues? [Leia essa documentação](https://docs.github.com/en/
 
 ## Branch's Diagram
 
-Add diagram image here - Checkout the [template branchs diagram](https://lucid.app/lucidchart/3271c146-cbe8-409f-8195-faba48b53680/edit?invitationId=inv_e6f25903-e966-4c97-bb31-886ed36984b8#)
-![Template de diagramas](https://github.com/Mauricio-Machado/issues-template-test/blob/main/.github/assets/branchs_diagram.png)
+Add diagram image here - Checkout the [template branchs diagram](https://github.com/Mauricio-Machado/issues-template-test/tree/main/docs/test.md)
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
