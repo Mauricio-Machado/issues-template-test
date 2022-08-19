@@ -1,8 +1,8 @@
 ---
-name: "[FEAT] Feature Name"
+name: "[FEAT-BASE] Feature Name"
 about: Detail the feature here.
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
